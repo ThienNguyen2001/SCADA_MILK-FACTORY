@@ -1,1 +1,13 @@
 # SCADA_MILK-FACTORY-
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/1.png)
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/2.png)
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/3.png)
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/4.png)
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/5.png)
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/6.png)
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/7.png)
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/8.png)
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/9.png)
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/10.png)
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/11.png)
+![image alt](https://github.com/ThienNguyen2001/SCADA_MILK-FACTORY/blob/9a686b5527a336e4342c4f689d3ffd0180ee84f2/12.png)
